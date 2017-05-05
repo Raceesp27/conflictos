@@ -15,7 +15,7 @@ public class Conflictos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Escrito por Rubén");
+        System.out.println("Escrito por Rubén");//hola
     }
     
 }
